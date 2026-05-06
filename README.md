@@ -456,13 +456,13 @@ See **Installation → Step 3** above.
 
 ### Hardware Photos
 
-![PicoScope Front View](images/front_view.jpg)
+![PicoScope Front View](images/picoscope.jpeg)
 *Front view showing display and touch interface*
 
-![PicoScope Internal](images/internal_view.jpg)
+![PicoScope Internal](images/picoscope2.jpeg)
 *Internal layout with Pico 2 and battery*
 
-![Probe Connection](images/probe_detail.jpg)
+![Probe Connection](images/picoscope3.jpeg)
 *10:1 probe divider circuit*
 
 ### Waveform Captures
