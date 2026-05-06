@@ -4,7 +4,6 @@
 
 Built by [Your Name] · [Your Organization/Location]
 
-![PicoScope Main Interface](images/picoscope_main.jpg)
 
 ---
 
@@ -465,16 +464,6 @@ See **Installation → Step 3** above.
 ![Probe Connection](images/picoscope3.jpeg)
 *10:1 probe divider circuit*
 
-### Waveform Captures
-
-![Square Wave 1kHz](images/capture_square_1khz.jpg)
-*1kHz square wave at 1V/div, 500µs/div*
-
-![Sine Wave 10kHz](images/capture_sine_10khz.jpg)
-*10kHz sine wave with measurements panel*
-
-![PWM Signal](images/capture_pwm.jpg)
-*PWM signal with trigger on rising edge*
 
 ---
 
@@ -651,6 +640,6 @@ SOFTWARE.
 
 ---
 
-**Built with ❤️ for the maker community**
+**Be with Southern IOT Community**
 
 *If you found this project helpful, please consider giving it a ⭐ on GitHub!*
